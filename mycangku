@@ -1363,7 +1363,7 @@
     {
       "name": "tv",
       "type": 0,
-      "url": "https://tv.nxog.top/m/tv/?ou=1f9",
+      "url": "https://raw.githubusercontent.com/adolearn/yingshicang/refs/heads/main/zhibo",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png",
       "playerType": 2,
